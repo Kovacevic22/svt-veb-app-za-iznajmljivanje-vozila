@@ -64,7 +64,6 @@ Da biste pokrenuli aplikaciju pratite sledece korake:
    php artisan migrate --seed
    ```
 6. Pokrenite lokalni server
-   Pokrenite Laravel razvojni server:
    ```bash
    php artisan serve
    ```
